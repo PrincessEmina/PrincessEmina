@@ -1,56 +1,37 @@
-# 👋 Hi, I'm Princess Emina!
+# Hey there, I'm Princess Emina! 👋🏽
 
-🌟 *Virtual Assistant | Aspiring Front-End Developer | Creative Thinker*
+I’m a Front-End Developer in training, passionate about creativity, problem-solving, and creating beautiful digital experiences that *just make sense.*
 
-Welcome to my GitHub! I'm Princess, a highly organized and enthusiastic Virtual Assistant who is transitioning into the world of Front-End Web Development. I thrive on helping individuals and businesses grow by providing reliable support and creating user-friendly, visually appealing digital experiences.
+👩🏽‍💻 Currently learning:  
+- HTML5, CSS3  
+- JavaScript Basics  
+- Responsive Web Design  
+- Git & GitHub  
+- UI/UX Design Principles  
 
----
+🎯 My goal:  
+To become a UI/UX Engineer - someone who not only designs thoughtful interfaces but also brings them to life through clean, intentional code.
 
-## 👩‍💻 What I Do
-- 🗂️ Virtual Assistance: Inbox management, calendar organization, task prioritization, content scheduling, and more.
-- ✍🏽 Content Creation: Blog writing, newsletters, and social media content.
-- 💻 Front-End Development: Learning to bring ideas to life using **HTML**, **CSS**, and **JavaScript**.
-- 📈 Organization & Strategy: Crafting content plans, managing projects, and streamlining workflows.
+✨ What I bring:  
+- Strong time & energy management  
+- Collaboration, communication, and presentation skills  
+- A background in Virtual Assistance and Social Media that helps me think like a user, not just a dev
 
----
+📚 Upcoming Projects:  
+- Personal Portfolio Website (coded by me!)  
+- Design-to-Code Landing Page  
+- ALX Front-End Capstone Projects  
 
-## 🚀 Current Focus
-- 📚 Learning modern web development practices (HTML5, CSS3, JavaScript).
-- 🎨 Building my personal portfolio site from scratch.
-- 🤝 Taking on virtual assistant projects to support business owners.
-- 🧠 Growing through hands-on experience and creative problem-solving.
-
----
-
-## 🛠️ Tools & Technologies
-- Notion | Trello | Canva | Google Workspace  
-- HTML5 | CSS3 | JavaScript (in progress)  
-- Git & GitHub (actively learning!)
+🚀 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/princess-emina) | [Email](mailto:pemina342@gmail.com)
 
 ---
 
-## 📌 Featured Projects
-Check out my growing portfolio:
-- 🗂️ [Calendar Management Content Strategy](#)  
-- 🔍 [Research Work Specialist Project](#)  
-(More coming soon!)
+Thanks for stopping by! Follow along as I grow from *VA to VS Code* 
 
----
 
-## 🎥 The Princess Pitch
-Watch my 60-second video intro (coming soon to my personal website!)  
-👑 *“Helping you stay organized, visible, and stress-free—one task at a time.”*
 
----
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/princess-emina)  
-- 📧 princessemina741@gmail.com  
-- 🌐 Personal Website: *Coming soon!*
-
----
-
-Thanks for stopping by — feel free to follow along on my journey! 💖  
 
 
 <!-- ## Hi there 👋 -->
